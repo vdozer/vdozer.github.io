@@ -5,7 +5,11 @@ body {
 	color:#444;
 	padding:0px
 }
+
 h1,h2,h3 {
 	line-height:1.2
 }
 
+div {
+	text-align: center;
+}
